@@ -20,7 +20,9 @@ body{
 .title{
     border-style: solid;
     margin-top: 40px;
-    width: 250px;
+    width: 251px;
+
+    
     text-align:center ;
     border-color: rgb(82, 1, 45);
     font-family: fantasy;
